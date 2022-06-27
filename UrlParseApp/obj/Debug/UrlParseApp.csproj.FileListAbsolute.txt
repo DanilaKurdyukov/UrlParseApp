@@ -1,0 +1,17 @@
+C:\Users\kurdy\Desktop\UrlParseApp\UrlParseApp\bin\Debug\UrlParseApp.exe.config
+C:\Users\kurdy\Desktop\UrlParseApp\UrlParseApp\bin\Debug\UrlParseApp.exe
+C:\Users\kurdy\Desktop\UrlParseApp\UrlParseApp\bin\Debug\UrlParseApp.pdb
+C:\Users\kurdy\Desktop\UrlParseApp\UrlParseApp\obj\Debug\UrlParseApp.csproj.AssemblyReference.cache
+C:\Users\kurdy\Desktop\UrlParseApp\UrlParseApp\obj\Debug\UrlParseApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurdy\Desktop\UrlParseApp\UrlParseApp\obj\Debug\App.g.cs
+C:\Users\kurdy\Desktop\UrlParseApp\UrlParseApp\obj\Debug\UrlParseApp_MarkupCompile.cache
+C:\Users\kurdy\Desktop\UrlParseApp\UrlParseApp\obj\Debug\UrlParseApp_MarkupCompile.lref
+C:\Users\kurdy\Desktop\UrlParseApp\UrlParseApp\obj\Debug\UrlParseApp.g.resources
+C:\Users\kurdy\Desktop\UrlParseApp\UrlParseApp\obj\Debug\UrlParseApp.Properties.Resources.resources
+C:\Users\kurdy\Desktop\UrlParseApp\UrlParseApp\obj\Debug\UrlParseApp.csproj.GenerateResource.cache
+C:\Users\kurdy\Desktop\UrlParseApp\UrlParseApp\obj\Debug\UrlParseApp.csproj.CoreCompileInputs.cache
+C:\Users\kurdy\Desktop\UrlParseApp\UrlParseApp\obj\Debug\UrlParseApp.exe
+C:\Users\kurdy\Desktop\UrlParseApp\UrlParseApp\obj\Debug\UrlParseApp.pdb
+C:\Users\kurdy\Desktop\UrlParseApp\UrlParseApp\obj\Debug\Views\Windows\MainWindow.g.cs
+C:\Users\kurdy\Desktop\UrlParseApp\UrlParseApp\obj\Debug\Views\Windows\MainWindow.baml
+C:\Users\kurdy\Desktop\UrlParseApp\UrlParseApp\obj\Debug\App.baml
